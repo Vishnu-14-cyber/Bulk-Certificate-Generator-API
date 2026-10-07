@@ -1,0 +1,6 @@
+name,email,role,notes
+Alexander Hamilton,alexander@treasury.gov,Lead Architect,Valid recipient
+,ghost@example.com,Observer,Invalid blank name to test fault isolation
+Benjamin Franklin,benjamin@science.org,Senior Fellow,Valid recipient
+John Adams,malformed-email-address,Diplomat,Invalid email address test
+Thomas Jefferson,thomas@monticello.edu,Founding Scholar,Valid recipient
